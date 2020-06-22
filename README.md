@@ -1,2 +1,1 @@
-# sample-Test
-A first sample for learning
+sample testing conformation
